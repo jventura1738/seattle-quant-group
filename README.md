@@ -1,2 +1,3 @@
-# seattle-quant-group
-Interns in Seattle shooting for quant next Summer
+# Seattle Quant Group
+
+I'll post our solutions to quant questions here
