@@ -7,8 +7,27 @@ I'll post our solutions to quant questions here
 - Thursdays @ Justin's house
 - Sunday?
 
+## Topics to study:
+
+- Leetcode style Qs and Neet150
+- Big O and recurrence relations
+- Famous algs: kadane, dijkstra, etc.
+- OS: concurrency, threads, memory, etc.
+- Math: quick maths ie. 2-3 digit
+- Probability & basic stats
+- Counting (nCk, n!, stirling, etc.)
+- C/C++ optimization and memory management
+- High performance (cache optimization, parallel, benchmarking)
+- Testing (unit, mocking, e2e, etc.)
+- Basic system design (Twitter, YouTube, Google)
+- Systems: Caching, redundency, scalability, etc.
+
 ## Resources:
 
-- Neet 150
-- OSTEP
-- Old/new OAs hehe
+- Neet 150 (I have pro for us)
+- Leetcode premium (I have access for us)
+- Algoexpert (I have access for us)
+- OSTEP (free)
+- Old/new OAs (I have some)
+- MIT OCW 6.006 on YouTube
+- Quick maths: arithmetic.zetamac.com
