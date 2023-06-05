@@ -1,6 +1,6 @@
 # Seattle Quant Study Group
 
-I'll post our solutions to quant questions here
+by: Justin (CMU), Pritivi (UTA)
 
 ## Schedule:
 
