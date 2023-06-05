@@ -22,6 +22,7 @@ I'll post our solutions to quant questions here
 - Testing (unit, mocking, e2e, etc.)
 - Basic system design (Twitter, YouTube, Google)
 - Systems: Caching, redundency, scalability, etc.
+- Extra: AWS Cert, Docker/K8s, ML/AI
 
 ## Resources:
 
