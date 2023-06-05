@@ -12,6 +12,7 @@ I'll post our solutions to quant questions here
 - Leetcode style Qs and Neet150
 - Big O and recurrence relations
 - Famous algs: kadane, dijkstra, etc.
+- Basic OOP (shape in Python, C++, Java)
 - OS: concurrency, threads, memory, etc.
 - Math: quick maths ie. 2-3 digit
 - Probability & basic stats
