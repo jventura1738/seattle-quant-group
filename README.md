@@ -1,11 +1,16 @@
 # Seattle Quant Study Group
 
-by: Justin (CMU), Pritivi (UTA)
+by: Justin (CMU), Pritivi (UTA), Justina (UPenn)
 
 ## Schedule:
 
+- MTW @ Conference
 - Thursdays @ Justin's house
-- Sunday?
+- Fri-Sat: touch grass
+- Sundays?
+
+WEEK 1: Arrays, Hashing, Stacks ✅
+WEEK 2: Binary Search, Arrays, Lists
 
 ## Topics to study:
 
