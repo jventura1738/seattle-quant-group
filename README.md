@@ -10,6 +10,7 @@ by: Justin (CMU), Pritivi (UTA), Justina (UPenn)
 - Sundays?
 
 WEEK 1: Arrays, Hashing, Stacks ✅
+
 WEEK 2: Binary Search, Arrays, Lists
 
 ## Topics to study:
