@@ -11,12 +11,14 @@ by: Justin (CMU), Pritivi (UTA), Justina (UPenn)
 
 WEEK 1: Arrays, Hashing, Stacks ✅
 
-WEEK 2: Binary Search, Arrays, Lists
+WEEK 2: Binary Search, Arrays, Lists, Networks, Generators
 
 ## Topics to study:
 
+- Python low level details: .sort(), generators, multi-thread/process, etc.
 - Leetcode style Qs and Neet150
 - Big O and recurrence relations
+- Amortized time complexity
 - Famous algs: kadane, dijkstra, etc.
 - Basic OOP (shape in Python, C++, Java)
 - OS: concurrency, threads, memory, etc.
