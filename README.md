@@ -4,14 +4,25 @@ by: Justin (CMU), Pritivi (UTA), Justina (UPenn)
 
 ## Schedule:
 
-- MTW @ Conference
-- Thursdays @ Justin's house
+- MTWR @ Conference
 - Fri-Sat: touch grass
 - Sundays?
 
 WEEK 1: Arrays, Hashing, Stacks ✅
 
 WEEK 2: Binary Search, Arrays, Lists, Networks, Generators
+
+WEEK 3: Sliding Window, Linked Lists, Networking
+
+WEEK 4: Trees, Backtracking, Hashing, SHA
+
+WEEK 5: Graphs and Adv Graphs
+
+WEEK 6: Dynamic Programming and Python stuff
+
+WEEK 7: Dynamic Programming, Math, Sweaty stuff
+
+WEEK 8: OA's, Python specifics
 
 ## Topics to study:
 
