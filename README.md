@@ -18,11 +18,11 @@ WEEK 4: Trees, Backtracking, Hashing, SHA ✅
 
 WEEK 5: Graphs and Adv Graphs ✅
 
-WEEK 6: Dynamic Programming and Python stuff
+WEEK 6: Dynamic Programming and Python stuff ✅
 
-WEEK 7: Dynamic Programming, Math, Sweaty stuff
+WEEK 7: Dynamic Programming, Math, OAs
 
-WEEK 8: OA's, Python specifics
+WEEK 8: OAs, Python specifics
 
 ## Topics to study:
 
